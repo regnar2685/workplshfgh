@@ -1,0 +1,8 @@
+{
+  "appId": "ir.technoyaad.hazeryad",
+  "appName": "حاضریاد",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
